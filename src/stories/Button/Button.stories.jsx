@@ -2,7 +2,7 @@ import React from 'react';
 import { withDesign } from 'storybook-addon-designs'
 import { jsxDecorator } from "storybook-addon-jsx"
 
-import { Button } from './Button';
+import { Button } from '.';
 
 export default {
   title: 'Example/Button',
